@@ -22,5 +22,5 @@ The repository has the following files and folders:
     > The Jupyter notebook with the solutions to all the questions, containing the graph analysis and both backend and frontend implementations. The cells are already executed.
 * __`CommandLine.sh`__
     > The command line scripts used to answer the questions.
-* __`Others`__
+* __`Other`__
     > A folder containing 
