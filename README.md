@@ -23,4 +23,4 @@ The repository has the following files and folders:
 * __`CommandLine.sh`__
     > The command line scripts used to answer the questions.
 * __`Other`__
-    > A folder containing 
+    > A folder containing CLQ outupts and other images used to solve clq.
