@@ -14,8 +14,9 @@ The main goal of this project is to dig deep into graphs using analysis techniqu
 * Nadir Nuralin 2113428</p>
     > nadir.nuralin@alumni.nu.edu.kz</p>
     > Github: nadir2k
-* 
-
+* Paolo Meli 1920140
+    >meli.1920140@studenti.uniroma1.it
+    >
 ## Contents
 The repository has the following files and folders:
 
