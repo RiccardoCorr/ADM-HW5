@@ -12,7 +12,7 @@ The main goal of this project is to dig deep into graphs using analysis techniqu
     > miladtorabi65@gmail.com</p>
     > Github: @miladtorabi65
 * Nadir Nuralin 2113428</p>
-    > nadir.nuralin@alumni.nu.edu.kz
+    > nadir.nuralin@alumni.nu.edu.kz</p>
     > Github: nadir2k
 * 
 
