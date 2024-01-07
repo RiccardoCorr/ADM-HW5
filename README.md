@@ -15,6 +15,6 @@ The main goal of this project is to dig deep into graphs using analysis techniqu
 The repository has the following files and folders:
 
 * __`main.ipynb`__
-    > The Jupyter notebook with the solutions to all the questions. The cells are already executed.
+    > The Jupyter notebook with the solutions to all the questions, containing the graph analysis and both backend and frontend implementations. The cells are already executed.
 
     
