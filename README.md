@@ -2,6 +2,7 @@
 
 The repository contains the submission of the fifth homework for the course "Algorithmic Methods of Data Mining", for the Group #23.
 
+The main goal of this project is to dig deep into graphs using analysis techniques. We want to unravel interesting characteristics in the graph structures, find patterns, see how things relate to each other, and pull out useful insights.
 
 ## Team members
 * Riccardo Corrente 1964746
