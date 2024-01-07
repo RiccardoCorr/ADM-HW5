@@ -1,4 +1,3 @@
-# ADM-HW5
 # Algorithmic Methods of Data Mining (Sc.M. in Data Science). Homewok 5
 
 ## Team members
