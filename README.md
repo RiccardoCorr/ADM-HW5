@@ -11,8 +11,9 @@ The main goal of this project is to dig deep into graphs using analysis techniqu
 * Milad Torabi 2103454</p>
     > miladtorabi65@gmail.com</p>
     > Github: @miladtorabi65
-* 
-
+* Nadir Nuralin 2113428</p>
+    > nadir.nuralin@alumni.nu.edu.kz
+    > Github: nadir2k
 * 
 
 ## Contents
