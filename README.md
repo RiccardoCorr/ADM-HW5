@@ -5,10 +5,10 @@ The repository contains the submission of the fifth homework for the course "Alg
 The main goal of this project is to dig deep into graphs using analysis techniques. We want to unravel interesting characteristics in the graph structures, find patterns, see how things relate to each other, and pull out useful insights.
 
 ## Team members
-* Riccardo Corrente 1964746
+* Riccardo Corrente 1964746</p>
   Corrente.1964746@......
-* Milad Torabi 2103454
-  miladtorabi65@gmail.com
+* Milad Torabi 2103454</p>
+  miladtorabi65@gmail.com</p>
   Github: @miladtorabi65
 * 
 
