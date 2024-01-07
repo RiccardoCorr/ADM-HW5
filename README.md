@@ -6,7 +6,10 @@ The main goal of this project is to dig deep into graphs using analysis techniqu
 
 ## Team members
 * Riccardo Corrente 1964746
-* 
+  Corrente.1964746@......
+* Milad Torabi 2103454
+  miladtorabi65@gmail.com
+  Github: @miladtorabi65
 * 
 
 * 
